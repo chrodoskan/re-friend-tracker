@@ -380,7 +380,7 @@ export class GuiModel {
                             "search": true,
                             "url": "/activity/:activityKey/friend",
                             "form": {
-                                "form": "ActivityForm"
+                                "form": "FriendForm"
                             }
                         },	
                         
