@@ -20,6 +20,7 @@ export class ExampleTranslationService extends TranslationService {
         return {
             "Activity": "Activity",
             "AddActivity": "Add Activity",
+			"ActivityName": "Activity Name",
             "Activities" : "Activities",
             "Birthday" : "Birthday",
             "Comments" : "Comments",
@@ -30,6 +31,7 @@ export class ExampleTranslationService extends TranslationService {
             "EditLocation" : "Edit Location",
             "Friends" : "Friends",
             "Friend" : "Friend",
+			"FriendOverview": "Friend Overview",
             "FamilyName" : "Family Name",
             "FirstName" : "First Name",
             "Group" : "Group",
